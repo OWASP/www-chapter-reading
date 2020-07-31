@@ -4,6 +4,9 @@ layout: col-sidebar
 title: OWASP Reading
 tags: example-tag
 level: 4
+meetup-group: OWASP-Reading-Chapter
+country: United Kingdom
+postal-code: 
 
 ---
 
