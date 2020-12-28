@@ -20,7 +20,7 @@ As you may be aware of, Reading is one of UK's top digital cities and hosts a mu
 
 How exciting would it be see AppSec through the lenses of all these people and get a chance to interact with them?
 
-So, why wait? Join us today!
+So, why wait? [Join us](https://www.meetup.com/OWASP-Reading-Chapter/) today!
 
 [Ramesh Krishnasagar](mailto:ramesh.krishnasagar@owasp.org) and [Shweta Choudhaha](mailto:shweta.choudaha@owasp.org) (chapter leaders) are here to assist you with anything regarding our Reading Chapter. 
 
