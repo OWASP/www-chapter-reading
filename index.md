@@ -29,10 +29,10 @@ So, why wait? [Join us](https://www.meetup.com/OWASP-Reading-Chapter/) today!
 * Tweets on [Twitter](https://twitter.com/owaspreading)
 * Videos on [Youtube](https://www.youtube.com/channel/UCitrDIoSVjayy6GrQ2LuzKA)
 
-## Hey speakers!
-Have anything to share on security? We are all ears!<br/>
-All we need from you is-
-* Review and agree with the OWASP [Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement)
+## Hello speakers!
+Would you like to share something interesting on security? We are all ears!<br/>
+All we want you to do is to
+* Review and agree with the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement)
 * Send the proposed talk title, abstract and speaker bio to the us via [e-mail](mailto:ramesh.krishnasagar@owasp.org) 
 
 ## Meetings
