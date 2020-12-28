@@ -6,6 +6,9 @@ tags: reading-tag
 region: Europe
 meetup-group: OWASP-Reading-Chapter
 country: United Kingdom
+level: 4
+postal-code: 
+
 
 ---
 <img src="assets/images/OWASP-Reading-cover.png" alt="OWASP-Reading-cover"  width="900" height="600"> <br>
