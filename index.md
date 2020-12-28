@@ -2,18 +2,38 @@
 
 layout: col-sidebar
 title: OWASP Reading
-tags: example-tag
-level: 4
+tags: reading-tag
+region: Europe
+meetup-group: OWASP-Reading-Chapter
+country: United Kingdom
 
 ---
+<img src="assets/images/OWASP-Reading-cover.png" alt="OWASP-Reading-cover"  width="900" height="600"> <br>
+# Welcome to OWASP Reading Chapter
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+We welcome you to join our band of App Sec enthusiasts and share your ideas and knowledge to the world!
 
-layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
+As you may be aware of, Reading is one of UK's top digital cities and hosts a multitude of IT companies across different disciplines - AI and Data, ECommerce, Cyber, Digital, Gaming, IoT, Medical Technology and FinTech.
 
-title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
+How exciting would it be see AppSec through the lenses of all these people and get a chance to interact with them?
 
-tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
+So, why wait? Join us today!
 
-level: For projects, this is your project level (2 - Incubator, 3 - Lab, 4 - Flagship)
+[Ramesh Krishnasagar](mailto:ramesh.krishnasagar@owasp.org) and [Shweta Choudhaha](mailto:shweta.choudaha@owasp.org) (chapter leaders) are here to assist you with anything regarding our Reading Chapter. 
 
+## Our channels
+* Connect with us on [Facebook](https://www.facebook.com/OWASPReading)
+* Tweets on [Twitter](https://twitter.com/owaspreading)
+* Videos on [Youtube](https://www.youtube.com/channel/UCitrDIoSVjayy6GrQ2LuzKA)
+
+## Hey speakers!
+Have anything to share on security? We are all ears!<br/>
+All we need from you is-
+* Review and agree with the OWASP [Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement)
+* Send the proposed talk title, abstract and speaker bio to the us via [e-mail](mailto:ramesh.krishnasagar@owasp.org) 
+
+## Meetings
+We schedule meetings on [Meetup](https://www.meetup.com/OWASP-Reading-Chapter/) 
+
+## Tickets
+Please get your tickets on Eventbrite once an event annoncement is made.  
