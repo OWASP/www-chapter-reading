@@ -38,5 +38,7 @@ All we want you to do is to
 ## Meetings
 We schedule meetings on [Meetup](https://www.meetup.com/OWASP-Reading-Chapter/) 
 
+{% include chapter_events.html group=page.meetup-group %}
+
 ## Tickets
 Please get your tickets on Eventbrite once an event annoncement is made.  
