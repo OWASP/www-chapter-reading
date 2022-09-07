@@ -22,7 +22,7 @@ How exciting would it be see AppSec through the lenses of all these people and g
 
 So, why wait? [Join us](https://www.meetup.com/OWASP-Reading-Chapter/) today!
 
-[Ramesh Krishnasagar](mailto:ramesh.krishnasagar@owasp.org) and [Shweta Choudhaha](mailto:shweta.choudaha@owasp.org) (chapter leaders) are here to assist you with anything regarding our Reading Chapter. 
+[Ramesh Krishnasagar](mailto:ramesh.krishnasagar@owasp.org) are here to assist you with anything regarding our Reading Chapter. 
 
 ## Our channels
 * Connect with us on [Facebook](https://www.facebook.com/OWASPReading)
