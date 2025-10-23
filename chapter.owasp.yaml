@@ -1,0 +1,24 @@
+leaders:
+  - name: Ramesh Krishnasagar
+    email: ramesh.krishnasagar@owasp.org
+    github: rameshsagar
+  - name: Shweta Choudaha
+    email: shweta.choudaha@owasp.org
+location:
+  country: United Kingdom
+  country_code: GB
+  region: England
+  city: Reading
+  latitude: 51.4564242
+  longitude: -0.9700664
+meetup_group: OWASP-Reading-Chapter
+name: OWASP Reading
+repositories:
+  - name: www-chapter-reading
+    url: https://github.com/OWASP/www-chapter-reading
+    description: OWASP Foundation Web Repository
+tags:
+  - reading-tag
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-reading
